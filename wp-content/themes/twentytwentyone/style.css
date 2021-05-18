@@ -1,4 +1,4 @@
-@charset "UTF-8";
+﻿@charset "UTF-8";
 
 /*
 Theme Name: Twenty Twenty-One
@@ -5855,7 +5855,7 @@ h1.page-title {
 }
 
 .has-red-to-purple-gradient-background {
-	background: linear-gradient(160deg, var(--global--color-red), var(--global--color-purple));
+background: linear-gradient(160deg, var(--global--color-red), var(--global--color-purple));
 }
 
 header *,
